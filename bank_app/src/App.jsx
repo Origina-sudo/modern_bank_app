@@ -8,7 +8,7 @@ const App = () =>(
         <div className={`${styles.boxWidth}`}>
           NavBar
         </div>
-        
+        //
       </div>
       <div className={`bg-primary ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}> 

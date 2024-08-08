@@ -21,10 +21,7 @@ const App = () =>(
             
             Billing 
             CardDeal 
-            TTestimonial    
-            Clients
-            CTA
-            Footer
+  
             </div>
                         
       </div>
